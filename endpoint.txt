@@ -1,0 +1,3 @@
+https://run.mocky.io/v3/5a982f64-218d-45d7-a380-ebe924d55631
+
+https://emoji-api.com/emojis?access_key=9d909eda94511800ae35391b518377f3cdb44a39
